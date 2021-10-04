@@ -5,5 +5,4 @@
 ### My ultimate goal is to create a SOMA app for Niraj and the SOMA team. 
 
 
-// <img src="image path and name" ...>
 <img src="todo-screenshot.png" >
